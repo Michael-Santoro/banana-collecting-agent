@@ -4,7 +4,7 @@
 
 
 # Banana Collecting Agent
-**Michael Santoro
+**Michael Santoro - michael.santoro@du.edu**
 
 # Introduction
 Train an agent using Deep Reinforcement Learning to collect bananas in a unity enviroment.
